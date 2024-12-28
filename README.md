@@ -79,8 +79,8 @@ I actively participate in hackathons to:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walletkun&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://leetcard.jacoblin.cool/walletkun?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dabrownies&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/adamsadov?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 

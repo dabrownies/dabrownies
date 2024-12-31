@@ -61,7 +61,7 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
 <p>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-3776AB?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Meta LLaMA 2.0" src="https://img.shields.io/badge/Meta%20LLaMA%202.0-0084FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img alt="Meta LLaMA 2.0" src="https://img.shields.io/badge/LLaMA%202.0-0084FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 ### Data Science Stack

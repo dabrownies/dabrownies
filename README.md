@@ -53,13 +53,15 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-005AFF?style=for-the-badge&logo=<![Pinecone-Primary-Logo-Black](https://github.com/user-attachments/assets/7c2518d2-0c30-452c-a1fe-62b0e95eea6d)
+>&logoColor=white" />
+
 </p>
 
 ### Machine Learning & AI
 
 <p>
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-3776AB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Meta LLaMA 2.0" src="https://img.shields.io/badge/LLaMA%202.0-0084FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>

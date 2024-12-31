@@ -5,15 +5,15 @@
       height="200" />
   <p></p>
   <!-- Animated typing text -->
-  <a href="https://github.com/walletkun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=I'm+Fei+Lin;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
+  <a href="https://github.com/dabrownies">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=I'm+Adam+Sadov;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
   </a>
 
 
   <!-- Social badges -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fei-lincs/)
-  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/walletkun/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feilinpersonal@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-sadov-b23b61204/)
+  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/dabrownies/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.sadov56@gmail.com)
 </div>
 
 

@@ -36,6 +36,7 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-3776AB?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
@@ -45,7 +46,6 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/dynamic/json" />
 </p>
 
 ### Tools & Platforms
@@ -66,7 +66,7 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
 
 ## 🏆 Hackathons
 
-> "Building is the best way to learn" - My Motto
+> "Tell me and I forget, teach me and I may remember, involve me and I learn." – Benjamin Franklin
 
 I actively participate in hackathons to:
 

@@ -79,8 +79,7 @@ I actively participate in hackathons to:
 - 💡 Turn innovative ideas into working prototypes
 - 🌱 Learn new technologies under pressure
 
-### #1 Ingenium STEM Hacks 2.0
-##### October 2024
+### #1 Ingenium STEM Hacks 2.0 #### October 2024
 
 - 🤖 Developed **CICERO**, an AI-powered tutor app
 - 📑 Accurately analzyes uploaded study materials

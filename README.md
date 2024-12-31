@@ -36,7 +36,6 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-3776AB?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
@@ -55,6 +54,14 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-3776AB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Meta LLaMA 2.0" src="https://img.shields.io/badge/Meta%20LLaMA%202.0-0084FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 ### Data Science Stack

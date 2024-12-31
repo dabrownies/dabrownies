@@ -66,9 +66,7 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-<div>
-  
-</div>
+
 
 ## 🏆 Hackathons
 
@@ -81,8 +79,8 @@ I actively participate in hackathons to:
 - 💡 Turn innovative ideas into working prototypes
 - 🌱 Learn new technologies under pressure
 
-### Ingenium STEM Hacks 2.0
-#### October 2024
+### #1 Ingenium STEM Hacks 2.0
+#### > October 2024
 
 - 🤖 Developed **CICERO**, an AI-powered tutor app
 - 📑 Accurately analzyes uploaded study materials

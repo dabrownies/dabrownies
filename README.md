@@ -13,7 +13,7 @@
 </div>
 
 
-## 🚀 About Me
+## 👋🏼 About Me
 
 I'm a Computer Science major at Brooklyn College (Class of 2025). I build things that matter.
 
@@ -22,7 +22,7 @@ I'm a Computer Science major at Brooklyn College (Class of 2025). I build things
 - 💡 Passionate about solving real-world problems through code
 - 🏆 Active participant in hackathons and coding competitions
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -78,6 +78,15 @@ I actively participate in hackathons to:
 - 💡 Turn innovative ideas into working prototypes
 - 🌱 Learn new technologies under pressure
 
+### Ingenium STEM Hacks 2.0
+#### October 2024
+
+- 🤖 Developed **CICERO**, an AI-powered tutor app
+- 📑 Accurately analzyes uploaded study materials
+- 📚 Tailored study sessions and seamless flashcard generation
+- 💬 Quick and responsive chatbot feature
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -85,12 +94,6 @@ I actively participate in hackathons to:
   <img src="https://leetcard.jacoblin.cool/adamsadov?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-
-## 🎯 What's Next?
-
-- 🛠️ Building impactful projects that solve real problems
-- 🤝 Growing my professional network
-- 📱 Exploring new technologies and frameworks
 
 ## 🐍 Contribution Graph
 

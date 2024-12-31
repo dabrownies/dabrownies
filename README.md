@@ -1,8 +1,4 @@
 <div align="center">
-  <!-- Profile picture -->
-  <img src="https://raw.githubusercontent.com/walletkun/walletkun/main/asset/pfp_anime.webp" 
-      width="200" 
-      height="200" />
   <p></p>
   <!-- Animated typing text -->
   <a href="https://github.com/dabrownies">

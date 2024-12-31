@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science major with a Data Science minor at Brooklyn College (Class of 2025). I love building things that make a difference!
+I'm a Computer Science major at Brooklyn College (Class of 2025). I build things that matter.
 
-- 🎓 Currently working on my degree in Computer Science
+- 🎓 Currently pursing my degree in Computer Science
 - 🌱 Learning new technologies and frameworks every day
 - 💡 Passionate about solving real-world problems through code
 - 🏆 Active participant in hackathons and coding competitions
@@ -45,8 +45,7 @@ I'm a Computer Science major with a Data Science minor at Brooklyn College (Clas
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/dynamic/json" />
 </p>
 
 ### Tools & Platforms

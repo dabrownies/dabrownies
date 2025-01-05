@@ -97,7 +97,7 @@ I actively participate in hackathons to:
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/walletkun/walletkun/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/dabrownies/dabrownies/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dabrownies&color=blueviolet" alt="Profile views" />

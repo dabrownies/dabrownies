@@ -15,12 +15,12 @@
 
 ## 👋🏼 About Me
 
-I'm a Computer Science major at Brooklyn College (Class of 2025). I build things that matter.
+I'm a Computer Science major at Brooklyn College (Class of 2025) who is:
 
 - 🎓 Currently pursing my degree in Computer Science
 - 🌱 Learning new technologies and frameworks every day
 - 💡 Passionate about solving real-world problems through code
-- 🏆 Active participant in hackathons and coding competitions
+- 🏆 An active participant in hackathons and coding competitions
 
 ## 🛠 Tech Stack
 

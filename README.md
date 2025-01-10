@@ -65,7 +65,6 @@ I'm a Computer Science major at Brooklyn College (Class of 2025) who is:
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
 </p>
 
 

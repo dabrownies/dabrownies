@@ -106,7 +106,7 @@ I actively participate in hackathons to:
 
   <!-- Right Column - LeetCode and WakaTime side by side -->
   <div style="display: flex; gap: 10px;">
-    <img src="https://leetcard.jacoblin.cool/dabrownies?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
+    <img src="https://leetcard.jacoblin.cool/adamsadov?theme=dark&font=Nunito&ext=heatmap&hide_border=true&border=0&radius=20" 
       width="400px"
       height="340px" />
   </div>

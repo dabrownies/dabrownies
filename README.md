@@ -2,7 +2,7 @@
   <p></p>
   <!-- Animated typing text -->
   <a href="https://github.com/dabrownies">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=I'm+Adam+Sadov;Software+Engineer;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=I'm+Adam+Sadov;Software+Engineer;Data+Engineer" alt="Typing SVG" />
   </a>
 
 

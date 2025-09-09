@@ -24,7 +24,7 @@ Fetching fun facts....
 - i have 5 cats (i keep my house very clean though)
 - i love competitive games (valorant, apex legends, etc.)
 - i can play minecraft music on the piano 🎹
-- i'm working on my portfolio website which will be a playable browser game!
+- i am working on my portfolio website which will be a playable browser game!
 ```
 
 ## Here are some of the things I'm good at :)
@@ -83,7 +83,7 @@ My friends and I like to attend hackathons (we will win one day 🙏). All of th
 - 💬 Quick and responsive chatbot feature
 
 
-## 📈 GitHub Stats
+## 📈 My Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Left Column - GitHub Stats -->

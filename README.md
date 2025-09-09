@@ -15,14 +15,19 @@
 
 ## 👋🏼 About Me
 
-I'm a Computer Science major at Brooklyn College (Class of 2025) who is:
+### CS @ CUNY Brooklyn College and part-time Data Engineer at NineDot Energy. 
+```bash
+Adams-MacBook-Pro:~ dabrownies$ -run funfacts
+Fetching fun facts....
+#################### 100%
 
-- 🎓 Currently pursing my degree in Computer Science
-- 🌱 Learning new technologies and frameworks every day
-- 💡 Passionate about solving real-world problems through code
-- 🏆 An active participant in hackathons and coding competitions
+- i have 5 cats (i keep my house very clean though)
+- i love competitive games (valorant, apex legends, etc.)
+- i can play minecraft music on the piano 🎹
+- i'm working on my portfolio website which will be a playable browser game!
+```
 
-## 🛠 Tech Stack
+## Here are some of the things I'm good at :)
 
 ### Languages
 
@@ -66,24 +71,9 @@ I'm a Computer Science major at Brooklyn College (Class of 2025) who is:
   <img alt="Meta LLaMA 2.0" src="https://img.shields.io/badge/LLaMA%202.0-0084FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
-### Data Science Stack
-
-<p>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-
 ## 🏆 Hackathons
 
-> "Tell me and I forget, teach me and I may remember, involve me and I learn." – Benjamin Franklin
-
-I actively participate in hackathons to:
-
-- 🚀 Challenge myself with real-world problems
-- 🤝 Collaborate with other passionate developers
-- 💡 Turn innovative ideas into working prototypes
-- 🌱 Learn new technologies under pressure
+My friends and I like to attend hackathons (we will win one day 🙏). All of the ones we attend will be listed below:
 
 ### Ingenium STEM Hacks 2.0
 #### - October 2024

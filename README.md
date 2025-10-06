@@ -15,7 +15,7 @@
 
 ## 👋🏼 About Me
 
-### CS @ CUNY Brooklyn College and part-time Data Engineer at NineDot Energy. 
+### CS @ CUNY Brooklyn College and part-time Data Engineer @ NineDot Energy. 
 ```bash
 Adams-MacBook-Pro:~ dabrownies$ -run funfacts
 Fetching fun facts....
